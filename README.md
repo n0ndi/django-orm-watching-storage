@@ -26,7 +26,7 @@ SECRET_KEY=Ключ шифрования базы данных
 
 Для запуска используйте:
 ```
-python manage.py server
+python manage.py run server
 ```
 ### Цель проекта
 
